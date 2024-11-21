@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenanrefiyev
-- 👀 I’m interested in React but I have not started yet!
+- 👀 just started React but I have no idea!
 - 🌱 I’m currently learning HTML AND CSS,just started JS))
 - 📫 How to reach me kenanrefiyev0@gmail.com
 - ⚡ Fun fact: I play guitar and learing philosophy through thinking...
