@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kenanrefiyev
-- 👀 just started React but I have no idea!
-- 🌱 I’m currently learning HTML AND CSS,just started JS))
-- 📫 How to reach me kenanrefiyev0@gmail.com
-- ⚡ Fun fact: I play guitar and learing philosophy through thinking...
+
+
+- 📫 Reach me: kenanrefiyev0@gmail.com
 
 <!---
 kenanrefiyev/kenanrefiyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
